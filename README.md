@@ -12,7 +12,7 @@ Garantia de Qualidade de Software
 - Francisco Daniel da Silva Coutinho - RA: 52614289 - E-mail: 52614289@ulife.com.br
 - José Victor Teixeira Freitas Carvalho - RA: 52517834 - E-mail: 52517834@ulife.com.br
 - Anna Luiza Bamondes de Oliveira - RA: - E-mail: 52510929@ulife.com.br
-- Gustavo William Silva de Almeida - RA: - E-mail:
+- Gustavo William Silva de Almeida - RA: 52511929 - E-mail: 52511929@ulife.com.br
 
 ## Descrição
 
