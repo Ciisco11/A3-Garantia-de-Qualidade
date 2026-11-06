@@ -1,6 +1,4 @@
 -- Clínica SaúdeDigital (CSD)
--- Script de criação do banco de dados e das 7 tabelas.
--- Compatível com MySQL 8.x / MySQL Workbench.
 
 CREATE DATABASE IF NOT EXISTS csd
     CHARACTER SET utf8mb4
